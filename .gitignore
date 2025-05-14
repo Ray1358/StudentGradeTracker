@@ -1,0 +1,6 @@
+main
+*.exe
+*.o
+*.out
+*.dSYM/
+.vscode/
