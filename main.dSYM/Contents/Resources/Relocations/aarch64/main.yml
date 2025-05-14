@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ramonbaez/Documents/VsCode/C++/cpp_projects/main'
+relocations:     []
+...
